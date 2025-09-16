@@ -1,0 +1,14 @@
+{
+  "name": "node_practice",
+  "version": "1.0.0",
+  "main": "eventloop_practice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node eventloop_practice.js",
+    "dev": "nodemon eventloop_practice.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
